@@ -22,6 +22,11 @@ public class Program1
 			System.out.println("m4-----2_August");
 		}
 	
+	        public void m5()
+		{
+			System.out.println("m5-----2_August");
+		}
+	
 		public static void main(String[] args) 
 		{
 			System.out.println("Program1");
