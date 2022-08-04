@@ -5,5 +5,6 @@ public class Program
 		public static void main(String[] args) 
 		{
 			System.out.println("Hello Pritam");
+			System.out.println("Hello Piyush");
 		}
 }
